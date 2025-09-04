@@ -1,0 +1,26 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+post-env/
+
+# Django stuff
+*.sqlite3
+*.log
+*.pot
+*.pyc
+db.sqlite3
+
+# Media and static files (optional)
+media/
+staticfiles/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
